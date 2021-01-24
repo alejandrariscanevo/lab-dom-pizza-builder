@@ -193,6 +193,7 @@ p.description {
   height: 702px;
   overflow: hidden;
   position: relative;
+  color: green;
 }
 
 /*------ Panels -----*/
